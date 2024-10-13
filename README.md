@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Barticekk
 - 👀 I’m interested in Webhosting and server hosting
 - 🌱 I’m currently learning java and CSS
-- 📫 How to reach me? barticekk@bamistav.cz (I don't check often😔)
+- 📫 How to reach me? barticekk@barticekk.eu (I don't check often😔)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Scotland chose the unicorn to be its national animal.
 
